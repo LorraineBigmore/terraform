@@ -1,4 +1,4 @@
-#terraform script
+# Terraform script
 Clone repository 
 
 For AI Search
